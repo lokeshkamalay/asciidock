@@ -1,3 +1,4 @@
+:imagesdir: images/
 :toc:
 
 hello
@@ -5,3 +6,4 @@ hello
 
 hi
 ~~
+image::cjplogo.png[link=images/cjplogo.png]
